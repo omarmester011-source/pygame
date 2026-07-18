@@ -1,0 +1,19 @@
+import pygame
+
+# Screen Settings
+WIDTH = 450
+HEIGHT = 700
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GOLD = (255, 215, 0)
+SKY_BLUE = (135, 206, 235)
+
+# Game Constants
+LANES = [75, 225, 375]
+PLAYER_SPEED = 15
+GRAVITY = 0.8
+JUMP_STRENGTH = -16
+INITIAL_SCROLL_SPEED = 7

@@ -1,0 +1,10 @@
+
+---
+
+### 4. Commands to push to GitHub
+
+Open your terminal **inside** your project folder and run these commands step-by-step:
+
+1. **Initialize the local folder:**
+   ```bash
+   git init
